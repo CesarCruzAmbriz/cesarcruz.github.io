@@ -3,8 +3,6 @@
 Este es el sitio web personal de **Cesar Cruz A.**, físico egresado de la **Benemérita Universidad Autónoma de Puebla (BUAP)**.  
 Presenta su trayectoria académica, proyectos de investigación en física de neutrinos, implementación de modelos teóricos en **SARAH/SPheno**, simulaciones numéricas, y participación en congresos científicos.
 
-Sitio publicado con **GitHub Pages** y construido en **HTML + TailwindCSS**.
-
 ---
 
 ## 🧠 Acerca de mí
