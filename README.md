@@ -1,4 +1,4 @@
-# 🌌 Portafolio Científico — César Cruz
+# 🌌 Portafolio Científico — Cesar Cruz Ambriz
 
 Este es el sitio web personal de **Cesar Cruz A.**, físico egresado de la **Benemérita Universidad Autónoma de Puebla (BUAP)**.  
 Presenta su trayectoria académica, proyectos de investigación en física de neutrinos, implementación de modelos teóricos en **SARAH/SPheno**, simulaciones numéricas, y participación en congresos científicos.
@@ -37,6 +37,7 @@ El portafolio incluye las siguientes secciones:
 ## 🚀 Visualiza el sitio
 
 📍 **URL:** [https://cesarcruz.github.io](https://cesarcruz.github.io)
+📍 **URL:** [www.linkedin.com/in/cesar-cruz-ambriz-a65008390](https://www.linkedin.com/in/cesar-cruz-ambriz-a65008390/)
 
 ---
 
